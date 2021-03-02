@@ -8,4 +8,4 @@ Use the keys "w, a, s, d" to move the turtle and make a drawing. The key "c" wil
 * S | backward
 * A | turn left
 * D | turn right
-* C | clear screen
+* C | clears screen and brings turtle home
